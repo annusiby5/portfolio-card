@@ -71,8 +71,8 @@ body {
 }
 
 .profile-ring {
-    width: 110px;
-    height: 110px;
+    width: 140px;
+    height: 140px;
     margin: 0 auto;
     border-radius: 50%;
     box-shadow: 0 8px 24px rgba(239, 68, 68, .5);
@@ -98,7 +98,7 @@ body {
 }
 
 .title {
-    margin-top: 1.3rem;
+    margin-top: .5rem;
     margin-bottom: 0.5rem;
     text-align: center;
     font-size: 1.7rem;
@@ -109,7 +109,7 @@ body {
 }
 
 .role {
-    margin-top: .7rem;
+    margin-top: .2rem;
     display: inline-flex;
     align-items: center;
     gap: .4rem;
@@ -130,7 +130,7 @@ body {
 }
 
 .status {
-    margin-top: .7rem;
+    margin-top: .2rem;
     display: inline-flex;
     align-items: center;
     gap: .45rem;
@@ -251,6 +251,7 @@ body {
 }
 
 .socials {
+    margin-top: 0.8rem;
     display: flex;
     gap: .6rem;
 }
